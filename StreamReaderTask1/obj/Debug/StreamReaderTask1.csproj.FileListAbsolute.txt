@@ -1,0 +1,6 @@
+c:\users\owner\documents\visual studio 2015\Projects\StreamReaderTask1\StreamReaderTask1\bin\Debug\StreamReaderTask1.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\StreamReaderTask1\StreamReaderTask1\bin\Debug\StreamReaderTask1.exe
+c:\users\owner\documents\visual studio 2015\Projects\StreamReaderTask1\StreamReaderTask1\bin\Debug\StreamReaderTask1.pdb
+c:\users\owner\documents\visual studio 2015\Projects\StreamReaderTask1\StreamReaderTask1\obj\Debug\StreamReaderTask1.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\StreamReaderTask1\StreamReaderTask1\obj\Debug\StreamReaderTask1.exe
+c:\users\owner\documents\visual studio 2015\Projects\StreamReaderTask1\StreamReaderTask1\obj\Debug\StreamReaderTask1.pdb
